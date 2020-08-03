@@ -5,7 +5,7 @@
 -->
 ## I'm a Developer, A Preacher
 - 🔭 I’m currently working on ASP.NET Core
-- 🌱 I’m currently learning JavaScript Frameworks
+- 🌱 I’m currently learning open sourcing projects and javaScript frameworks.
 - 💬 Ask me about anything, If I know, I will tell you, If not, then we will learn it together. 😁
 - 📫 How to reach me: Say 'Hey' on anywhere, let the destiny make us meet. [Email Me](mailto:kushwaha97deepanshu@mail.com?subject=Lets%20Meet&body=Hi,%20Howdy?)
 - 😄 Pronouns: Awesome, Engaging, Seeker
