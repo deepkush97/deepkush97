@@ -4,7 +4,7 @@
 **deepkush97/deepkush97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## I'm a Developer, A Preacher
-- 🔭 I’m currently working on ASP.NET Core
+- 🔭 I’m currently working on Typescript, React, Node and ASP.NET Core.
 - 🌱 I’m currently learning open sourcing projects and javaScript frameworks.
 - 💬 Ask me about anything, If I know, I will tell you, If not, then we will learn it together. 😁
 - 📫 How to reach me: Say 'Hey' on anywhere, let the destiny make us meet. [Email Me](mailto:kushwaha97deepanshu@mail.com?subject=Lets%20Meet&body=Hi,%20Howdy?)
