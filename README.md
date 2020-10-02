@@ -3,16 +3,17 @@
 <!--
 **deepkush97/deepkush97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## I'm a Developer, A Preacher
+## I'm a Developer, A Preacher *(Irreligious)*
 - 🔭 I’m currently working on Typescript, React, Node and ASP.NET Core.
 - 🌱 I’m currently learning open sourcing projects and javaScript frameworks.
 - 💬 Ask me about anything, If I know, I will tell you, If not, then we will learn it together. 😁
-- 📫 How to reach me: Say 'Hey' on anywhere, let the destiny make us meet. [Email Me](mailto:kushwaha97deepanshu@mail.com?subject=Lets%20Meet&body=Hi,%20Howdy?)
+- 📫 How to reach me: Say 'Hey' on anywhere, let the destiny make us meet. [Hit Me Up](mailto:kushwaha97deepanshu@mail.com?subject=Lets%20Meet&body=Hi,%20Howdy?)
 - 😄 Pronouns: Awesome, Engaging, Seeker
 - ⚡ Fun fact: Party, Party, and Party
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Csharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+<img align="left" alt="dotnet" width="26px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />
 <img align="left" alt="aspnet" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
